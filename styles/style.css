@@ -1,0 +1,32 @@
+.header{
+    
+    background-image: url('https://images.pexels.com/photos/1544935/pexels-photo-1544935.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-repeat: no-repeat;
+    background-position: center;
+   
+    height: 300px;
+    text-align: center;
+    padding: 10px;
+    color: red;
+    text-decoration: overline;
+    margin-left:0;
+    margin-right: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 1000;
+    font-size: 50px;
+   
+}
+h3{
+    margin-top: 40px;
+}
+#btn{
+    border: 5px solid tan;
+    /* margin-left: 300px;
+    margin-right: 300px; */
+    padding: 10px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+    background-color: blanchedalmond;
+
+}
