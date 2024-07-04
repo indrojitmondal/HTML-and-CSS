@@ -46,3 +46,6 @@ h1{
     margin: 20px auto;
     /* background-color: azure; */
 }
+.btn:hover{
+    background-color: green;
+}
